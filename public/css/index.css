@@ -1,0 +1,9 @@
+body{
+	background-color: black;
+}
+
+.consoleRow {
+	font-size: 25px;
+	/*display: inline-block;*/
+	color: white;
+}
